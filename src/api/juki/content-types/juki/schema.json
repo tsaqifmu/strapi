@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "jukis",
+  "info": {
+    "singularName": "juki",
+    "pluralName": "jukis",
+    "displayName": "juki"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nama": {
+      "type": "string"
+    }
+  }
+}
